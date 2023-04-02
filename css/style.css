@@ -1,0 +1,35 @@
+.box {
+	height: 90px;
+	background-color: red;
+	margin: 5px 5px;
+}
+
+.box1 {
+	height: 90px;
+	background-color: green;
+	margin: 5px 5px;
+}
+
+.box2 {
+	height: 90px;
+	background-color: yellow;
+	margin: 5px 5px;
+}
+
+.box3 {
+	height: 90px;
+	background-color: orange;
+	margin: 5px 5px;
+}
+
+.box4 {
+	height: 90px;
+	background-color: blue;
+	margin: 5px 5px;
+}
+
+.box5 {
+	height: 90px;
+	background-color: lightskyblue;
+	margin: 5px 5px;
+}
